@@ -51,7 +51,7 @@
 		3042D0A828E3CBF600BE3D05 /* BullsEyeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullsEyeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3042D0AC28E3CBF600BE3D05 /* BullsEyeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeUITests.swift; sourceTree = "<group>"; };
 		3042D0AE28E3CBF600BE3D05 /* BullsEyeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		30C81C0528E54BA4009F51CE /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AboutViewController.swift; path = BullsEye/AboutViewController.swift; sourceTree = "<group>"; };
+		30C81C0528E54BA4009F51CE /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		30C81C0728E560C3009F51CE /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = BullsEye.html; path = "../../../ia-materials/01-getting-started/Resources/BullsEye.html"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,7 +83,6 @@
 		3042D07F28E3CBF300BE3D05 = {
 			isa = PBXGroup;
 			children = (
-				30C81C0528E54BA4009F51CE /* AboutViewController.swift */,
 				3042D08A28E3CBF300BE3D05 /* BullsEye */,
 				3042D0A128E3CBF600BE3D05 /* BullsEyeTests */,
 				3042D0AB28E3CBF600BE3D05 /* BullsEyeUITests */,
@@ -105,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				30C81C0728E560C3009F51CE /* BullsEye.html */,
+				30C81C0528E54BA4009F51CE /* AboutViewController.swift */,
 				3042D08B28E3CBF300BE3D05 /* AppDelegate.swift */,
 				3042D08D28E3CBF300BE3D05 /* SceneDelegate.swift */,
 				3042D08F28E3CBF300BE3D05 /* ViewController.swift */,
